@@ -1,0 +1,6 @@
+D:\DesignPatternLab\Lab2\Lab2e\bin\Debug\Lab2e.exe.config
+D:\DesignPatternLab\Lab2\Lab2e\bin\Debug\Lab2e.exe
+D:\DesignPatternLab\Lab2\Lab2e\bin\Debug\Lab2e.pdb
+D:\DesignPatternLab\Lab2\Lab2e\obj\Debug\Lab2e.csproj.CoreCompileInputs.cache
+D:\DesignPatternLab\Lab2\Lab2e\obj\Debug\Lab2e.exe
+D:\DesignPatternLab\Lab2\Lab2e\obj\Debug\Lab2e.pdb

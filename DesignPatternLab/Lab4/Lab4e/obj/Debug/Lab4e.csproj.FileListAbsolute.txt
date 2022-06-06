@@ -1,0 +1,7 @@
+D:\DesignPatternLab\Lab4\Lab4e\bin\Debug\Lab4e.exe.config
+D:\DesignPatternLab\Lab4\Lab4e\bin\Debug\Lab4e.exe
+D:\DesignPatternLab\Lab4\Lab4e\bin\Debug\Lab4e.pdb
+D:\DesignPatternLab\Lab4\Lab4e\obj\Debug\Lab4e.csprojAssemblyReference.cache
+D:\DesignPatternLab\Lab4\Lab4e\obj\Debug\Lab4e.csproj.CoreCompileInputs.cache
+D:\DesignPatternLab\Lab4\Lab4e\obj\Debug\Lab4e.exe
+D:\DesignPatternLab\Lab4\Lab4e\obj\Debug\Lab4e.pdb

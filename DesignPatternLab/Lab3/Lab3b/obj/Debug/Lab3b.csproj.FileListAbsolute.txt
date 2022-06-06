@@ -1,0 +1,13 @@
+D:\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.exe.config
+D:\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.exe
+D:\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.pdb
+D:\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.csproj.CoreCompileInputs.cache
+D:\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.exe
+D:\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.pdb
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.exe.config
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.exe
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\bin\Debug\Lab3b.pdb
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.csproj.AssemblyReference.cache
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.csproj.CoreCompileInputs.cache
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.exe
+C:\Users\maith\Downloads\DesignPatternLab\Lab3\Lab3b\obj\Debug\Lab3b.pdb
